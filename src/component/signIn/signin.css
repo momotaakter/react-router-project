@@ -1,0 +1,26 @@
+form{
+    display: grid;
+    grid-template-columns: auto;
+    width:500px;
+    margin-top:40px;
+    gap:10px;
+    padding:10px
+
+
+}
+button{
+    background-color: rgb(37, 165, 5);
+    padding:10px;
+    border:none;
+    text-transform: capitalize;
+}
+input{
+    padding:10px;
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
